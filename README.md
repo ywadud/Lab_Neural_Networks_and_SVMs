@@ -4,4 +4,4 @@ Ryerson 2017 lab
 
 Lab guide, MATLAB code, data files and resulting data can be found inside
 
-tobedecompressed.zip must be decompressed before running the code
+data.zip must be decompressed before running the code
